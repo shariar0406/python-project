@@ -1,0 +1,13 @@
+x=5
+result=type(x)
+print(result)
+x=5.5
+result=type(x)
+print(result)
+x='shariar'
+result=type(x)
+print(result)
+y=10
+x=5.5
+result=type(x>y)
+print(result)
